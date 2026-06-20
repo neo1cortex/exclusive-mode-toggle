@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Exclusive Mode Toggle",
+    "description": "Adds a top bar button to toggle Spotify Exclusive Mode without opening Settings.",
+    "preview": "preview.png",
+    "main": "exclusive-mode-toggle.js",
+    "readme": "README.md",
+    "authors": [
+      {
+        "name": "neo1cortex",
+        "url": "https://github.com/neo1cortex"
+      }
+    ],
+    "tags": ["exclusive-mode", "audio", "topbar", "bit-perfect"]
+  }
+]
