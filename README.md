@@ -1,6 +1,6 @@
 # Exclusive Mode Toggle
 
-![alt text](preview.png)
+![alt text](example.png)
 
 A Spicetify extension that adds a top bar button to toggle Spotify's Exclusive Mode without opening the Settings page.
 
